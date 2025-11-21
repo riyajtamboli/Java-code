@@ -1,4 +1,3 @@
-import java.util.*;
 void main(){
 	IO.println("Enter Your Name :" );
 	String name = IO.readln();

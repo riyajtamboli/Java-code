@@ -1,4 +1,3 @@
-import java.util.*;
 void main(){
 	IO.print("Enter your gender [M/F] : ");
 	String gen = IO.readln();
